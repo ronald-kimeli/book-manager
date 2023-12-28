@@ -1,9 +1,11 @@
 # Installation
 
+Book Manager is a FUll Stack application using laravel api and vue js 3
+
 * Clone this repository to your local computer
 
 ```bash
-git clone https...
+git clone https://github.com/ronald-kimeli/book-manager.git
 ```
 
 * Navigate to laravel api backend.
