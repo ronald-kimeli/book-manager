@@ -150,6 +150,10 @@ export default defineComponent({
         },
       };
 
+      if (chart) {
+        chart.destroy(); // Clear the previous chart if it exists
+      }
+
       // Render chart
       const chart = new ApexCharts(document.querySelector("#Apexchart"), options);
       chart.render();
