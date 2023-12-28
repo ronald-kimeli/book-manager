@@ -1,6 +1,6 @@
 # Installation
 
-Book Manager is a FUll Stack application using laravel api and vue js 3
+Book Manager is a Full Stack application using laravel api and vue js 3
 
 * Clone this repository to your local computer
 
